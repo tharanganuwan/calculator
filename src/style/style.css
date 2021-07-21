@@ -1,0 +1,27 @@
+#mainPane{
+    -fx-background-color: #acdbee;
+}
+#btnClose{
+    -fx-background-color: #ff0000;
+}
+#btnClose:hover{
+    -fx-background-color: #bf2424;
+}
+#btnMinimize{
+    -fx-background-color: blue;
+}
+#btnMinimize:hover{
+    -fx-background-color: #4365d6;
+}
+#btnNumbers{
+    -fx-background-color: #0e2cb1;
+}
+#btnNumbers:hover{
+    -fx-background-color: #0d2889;
+}
+#btnControllers{
+    -fx-background-color: #0d2889;
+}
+#btnControllers:hover{
+    -fx-background-color: #0a2168;
+}
