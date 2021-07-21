@@ -5,7 +5,7 @@
     -fx-background-color: #ff0000;
 }
 #btnClose:hover{
-    -fx-background-color: #bf2424;
+    -fx-background-color: #bf2425;
 }
 #btnMinimize{
     -fx-background-color: blue;
