@@ -1,2 +1,2 @@
-This is my first project. This calculator created using java and intelliJ IDEA.
+This is my first project using intelliJ IDEA. This calculator using java.
 Thank You.
